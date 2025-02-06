@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m currently teaching C Programming and Python in Telugu with easy to understand examples for beginners
+I’m currently learning about GitHub
+
+My YouTube Channel Link : www,youtube.com/TeluguSoft
 <!--
 **Mukku-Pratap-Reddy/Mukku-Pratap-Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
