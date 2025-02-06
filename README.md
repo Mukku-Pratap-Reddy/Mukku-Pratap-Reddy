@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I’m currently teaching C Programming and Python in Telugu with easy to understand examples for beginners
-I’m currently learning about GitHub
+I’m currently teaching C Programming and Python in Telugu with easy to understand examples for beginners.
+
+I’m currently learning GitHub
 
 My YouTube Channel Link : www,youtube.com/TeluguSoft
 <!--
